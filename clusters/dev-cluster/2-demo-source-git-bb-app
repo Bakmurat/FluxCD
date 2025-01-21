@@ -8,6 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: 2-demo
-  secretRef:
-    name: flux-system
   url: https://github.com/Bakmurat/FluxApp.git
