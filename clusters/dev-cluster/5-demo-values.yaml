@@ -3,7 +3,7 @@ replicaCount: 2
 
 service:
   type: NodePort 
-  nodePort: 3/1005
+  nodePort: 30005
 
 namespace:
   name: 5-demo
