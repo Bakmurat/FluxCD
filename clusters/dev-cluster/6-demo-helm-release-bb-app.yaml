@@ -25,4 +25,4 @@ spec:
     replicaCount: 2
     service:
       nodePort: 30006
-      type: NodePort
+      type: NodePortdocke
