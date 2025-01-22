@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: infrastructure
-  url: https://github.com/Bakmurat/FluxCD
+  url: https://github.com/Bakmurat/FluxApp
